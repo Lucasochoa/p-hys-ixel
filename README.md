@@ -1,2 +1,0 @@
-# p-hys-ixel
-presentation
